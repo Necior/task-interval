@@ -4,7 +4,7 @@ import datetime
 import tasklib
 import sys
 
-tag = 'onemoretime'
+tag = 'taskinterval'
 tw = tasklib.TaskWarrior()
 
 
